@@ -8,9 +8,20 @@ body {
     display: flex;
     justify-content: center;
    height: 100px;
+
     
   }
- 
+  .tontito2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10%;
+    right: 700px;
+  
+  
+  
+    
+  }
   
   .container {
     max-width: 960px;
@@ -88,4 +99,4 @@ body {
     font-family: monospace;
     font-size: 17px;
   }
-    
+  
