@@ -24,10 +24,10 @@ body {
   }
   
   .container {
-    max-width: 960px;
+    justify-content: center;
     margin: 0 auto;
-    padding: 20px;
-    margin-left: 20px;
+    padding: 0px;
+    margin-left: 10px;
   }
   
   /* Estilos del encabezado */
