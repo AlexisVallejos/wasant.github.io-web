@@ -17,6 +17,7 @@ body {
     justify-content: center;
     height: 10%;
     right: 700px;
+    padding: 50px;
   
   
   
@@ -27,7 +28,7 @@ body {
     justify-content: center;
     margin: 0 auto;
     padding: 0px;
-    margin-left: 10px;
+    margin-left: 20px;
   }
   
   /* Estilos del encabezado */
