@@ -61,14 +61,31 @@ body {
     text-decoration: none;
      margin-bottom: 20px;
   }
-  .text-container {
-    display: flex;
-    justify-content: center;
-  }
+
   
   /* Estilos del contenido principal */
   main {
-    background-color:
-    rgb(255, 255, 255)
-    } 
+   background-color: #141b2c;
+    }
+    
+  .text-container
+  {
+    display: flex;
+    margin-left: 23%;
+    color: #6aa1e3;
+    font-family: monospace;
+    justify-content: center;
+    width: 50%;
+    padding: 0px;
+    border: 3px solid violet;
+    
+    border-radius: 20%;
+    
+  }
+  .tontito
+  {
+   color: blanchedalmond;
+    font-family: monospace;
+    font-size: 17px;
+  }
     
